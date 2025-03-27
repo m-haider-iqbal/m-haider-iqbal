@@ -21,9 +21,9 @@ Currently, I am working on innovative embedded solutions and always exploring **
 - Optimizing **embedded power management and IoT solutions**  
 
 ### 🎯 Future Goals  
-I aim to **join industry leaders like Tesla, Bosch, and other top-tier technology companies**, where I can contribute my expertise in embedded hardware, PCB design, and FPGA systems.  
+I aim to join industry leaders, where I can contribute my expertise in embedded hardware, PCB design, and FPGA systems.  
 
 ### 📫 Let's Connect!  
-📌 **GitHub:** [github.com/yourusername](https://github.com/)  
+📌 **Portfolio:** [github.com/yourusername](https://www.mhaideriqbal.com/)  
 📌 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/)  
 📌 **Email:** your.email@example.com  
