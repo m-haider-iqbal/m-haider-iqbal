@@ -1,16 +1,29 @@
-## Hi there 👋
+## Haider Iqbal | Embedded Hardware Developer  
 
-<!--
-**m-haider-iqbal/m-haider-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Living in Germany** | 🔹 **4+ Years in Product Development** | 🔹 **FPGA Hobbyist**  
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+I am an **Embedded Hardware Developer** passionate about designing high-performance systems. With expertise in **PCB design (Altium, KiCad, EasyEDA), FPGA development (Xilinx ISE, Vivado), and embedded protocols (USB 3.0, Ethernet, SPI, I2C)**, I bring ideas to life. I specialize in **6-layer PCBs, embedded system integration, and high-speed hardware design**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am working on innovative embedded solutions and always exploring **new technologies like FPGA, high-speed interfaces, and industrial automation**.  
+
+### 🔧 Skills & Expertise  
+- **PCB Design:** Altium Designer, KiCad, EasyEDA  
+- **FPGA Development:** Xilinx ISE Webpack, Vivado  
+- **Embedded Systems:** ESP32, STM32, ATmega, ARM Cortex  
+- **Protocols:** USB 3.0, Ethernet, SPI, I2C, UART, CAN  
+- **Hardware Development:** PCBA (6 layers), Power Management, Signal Integrity  
+- **Software & Tools:** Embedded C, Python (for hardware testing), Git, Linux  
+
+### 💡 Projects & Interests  
+- Developing **high-speed PCBs** for industrial and consumer applications  
+- Exploring **FPGA-based accelerators** and **digital logic design**  
+- Optimizing **embedded power management and IoT solutions**  
+
+### 🎯 Future Goals  
+I aim to **join industry leaders like Tesla, Bosch, and other top-tier technology companies**, where I can contribute my expertise in embedded hardware, PCB design, and FPGA systems.  
+
+### 📫 Let's Connect!  
+📌 **GitHub:** [github.com/yourusername](https://github.com/)  
+📌 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/)  
+📌 **Email:** your.email@example.com  
