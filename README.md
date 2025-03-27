@@ -24,6 +24,6 @@ Currently, I am working on innovative embedded solutions and always exploring **
 I aim to join industry leaders, where I can contribute my expertise in embedded hardware, PCB design, and FPGA systems.  
 
 ### 📫 Let's Connect!  
-📌 **Portfolio:** [github.com/yourusername](https://www.mhaideriqbal.com/)  
-📌 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/)  
-📌 **Email:** your.email@example.com  
+📌 **Portfolio:** [m-haider-iqbal](https://www.mhaideriqbal.com/)  
+📌 **LinkedIn:** [linkedin](https://www.linkedin.com/in/m-haider-iqbal-eemhi)  
+📌 **Email:** -
