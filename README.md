@@ -1,29 +1,111 @@
-## Haider Iqbal | Embedded Hardware Developer  
+# Muhammad Haider Iqbal | Embedded Hardware Engineer
 
-🔹 **Living in Germany** | 🔹 **4+ Years in Product Development** | 🔹 **FPGA Hobbyist**  
+🔹 Germany-Based Embedded Hardware Engineer  
+🔹 4+ Years in Industrial Embedded Product Development  
+🔹 Specialized in High-Speed PCB Design & Industrial Embedded Systems  
 
-### 👨‍💻 About Me  
-I am an **Embedded Hardware Developer** passionate about designing high-performance systems. With expertise in **PCB design (Altium, KiCad, EasyEDA), FPGA development (Xilinx ISE, Vivado), and embedded protocols (USB 3.0, Ethernet, SPI, I2C)**, I bring ideas to life. I specialize in **6-layer PCBs, embedded system integration, and high-speed hardware design**.  
+---
 
-Currently, I am working on innovative embedded solutions and always exploring **new technologies like FPGA, high-speed interfaces, and industrial automation**.  
+## About Me
 
-### 🔧 Skills & Expertise  
-- **PCB Design:** Altium Designer, KiCad, EasyEDA  
-- **FPGA Development:** Xilinx ISE Webpack, Vivado  
-- **Embedded Systems:** ESP32, STM32, ATmega, ARM Cortex  
-- **Protocols:** USB 3.0, Ethernet, SPI, I2C, UART, CAN  
-- **Hardware Development:** PCBA (6 layers), Power Management, Signal Integrity  
-- **Software & Tools:** Embedded C, Python (for hardware testing), Git, Linux  
+I am an Embedded Hardware Engineer focused on designing reliable, high-performance embedded systems for industrial and automation applications. My expertise includes high-speed PCB design, mixed-signal hardware development, industrial communication interfaces, power electronics, and embedded platform integration.
 
-### 💡 Projects & Interests  
-- Developing **high-speed PCBs** for industrial and consumer applications  
-- Exploring **FPGA-based accelerators** and **digital logic design**  
-- Optimizing **embedded power management and IoT solutions**  
+I have hands-on experience developing industrial gateways, Battery Management Systems (BMS), motor drive hardware, energy monitoring systems, and embedded multimedia devices using platforms such as RK3562, STM32, ESP32, and MediaTek MT7628.
 
-### 🎯 Future Goals  
-I aim to join industry leaders, where I can contribute my expertise in embedded hardware, PCB design, and FPGA systems.  
+My work primarily involves:
+- 4/6-layer PCB design
+- RGMII/RMII Ethernet routing
+- Mixed-signal and SI/PI-aware layouts
+- Industrial communication interfaces
+- Embedded hardware bring-up and validation
+- EMI/EMC-conscious hardware design
 
-### 📫 Let's Connect!  
-📌 **Portfolio:** [m-haider-iqbal](https://www.mhaideriqbal.com/)  
-📌 **LinkedIn:** [linkedin](https://www.linkedin.com/in/m-haider-iqbal-eemhi)  
-📌 **Email:** -
+I enjoy solving complex hardware challenges and continuously exploring new technologies in embedded systems, industrial automation, high-speed interfaces, and hardware optimization.
+
+---
+
+## Technical Expertise
+
+### Embedded Platforms
+- RK3562
+- RK3328
+- ESP32 / ESP32-P4
+- STM32F4
+- RP2040
+- MediaTek MT7628
+
+### PCB Design & Simulation
+- Altium Designer
+- KiCad
+- LTspice
+- HyperLynx
+- Sigrity
+- TI Power Stage Designer
+
+### High-Speed Hardware Design
+- 4/6-Layer PCB Development
+- Controlled Impedance Routing
+- DDR & RGMII Length Matching
+- Differential Pair Routing
+- SI/PI-Aware Layout Design
+- EMI/EMC Optimization
+- Mixed-Signal PCB Design
+
+### Industrial Interfaces
+- CAN / CAN FD
+- RS485
+- Ethernet
+- SPI / I2C / I2S
+- UART
+- SDIO
+- USB OTG
+- HDMI
+
+### Power Electronics
+- Battery Management Systems (BMS)
+- Motor Drive Hardware
+- IGBT Gate Driver Design
+- Current & Voltage Sensing
+- Isolated Power Architectures
+
+### Validation & Debugging
+- Hardware Bring-Up
+- Oscilloscope-Based Debugging
+- Signal Integrity Verification
+- Interface Validation
+- Embedded System Testing
+
+---
+
+## Current Focus
+
+- Industrial Secure Edge Control Gateways
+- Embedded Multimedia Hardware
+- High-Speed Industrial PCB Design
+- Industrial Automation & Industry 4.0 Solutions
+- Embedded Linux Hardware Platforms
+- Secure Embedded Systems
+
+---
+
+## Engineering Interests
+
+- High-Speed Digital Design
+- Industrial Embedded Systems
+- Power Electronics
+- FPGA & Digital Logic Exploration
+- Embedded AI Edge Devices
+- Hardware Security & Reliability
+
+---
+
+## Career Vision
+
+I aim to contribute to advanced embedded hardware and industrial automation technologies by building reliable, scalable, and production-ready electronic systems that bridge hardware innovation with real-world industrial applications.
+
+---
+
+## Connect With Me
+
+- LinkedIn: [linkedin.com/in/m-haider-iqbal-eemhi](https://linkedin.com/in/m-haider-iqbal-eemhi)
+- GitHub: [github.com/m-haider-iqbal](https://github.com/m-haider-iqbal)
